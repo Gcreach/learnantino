@@ -2,12 +2,12 @@
 
 ## Description
 
-This website serves as a portfolio for Grant Creach. 
+This website serves as a portfolio for Grant Creach and to show his different projetcs
 
 
 ## Installation
 
-N/A
+Click the following link to reach the website https://gcreach.github.io/learnantino/
 
 ## Usage
 
